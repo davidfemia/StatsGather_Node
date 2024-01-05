@@ -1,0 +1,12 @@
+{
+    "dependencies": {
+    },
+    "devDependencies": {
+        "@types/node": "16.11.59",
+        "@types/switch-scripting": "https://github.com/enfocus-switch/types-switch-scripting/archive/22.1.1.tar.gz"
+    },
+    "license": "UNLICENSED",
+    "name": "stats_gatherer_node",
+    "private": true,
+    "version": "0.0.1"
+}
